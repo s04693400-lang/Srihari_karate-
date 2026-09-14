@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://s04693400-lang.github.io/Srihari_karate-/sitemap.xml
