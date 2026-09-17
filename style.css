@@ -157,14 +157,13 @@ section p {
     overflow: hidden;
 }
 
-.gallery .card img {
+.gallery .card img 
     display: block;
     width: 100%;
-    height: 220px;
+    height: auto;
+    max-height: 260px;
     object-fit: contain;
-    background: #000000;
     border-radius: 8px;
-}
 }
 
 .gallery .card:hover img {
