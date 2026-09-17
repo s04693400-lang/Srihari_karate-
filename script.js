@@ -3,12 +3,10 @@
 // WEBSITE JAVASCRIPT
 // =========================
 
+//Welcome message 
 
-// Welcome message
 window.addEventListener("load", function () {
-
-    console.log("🥋 Welcome to Srihari Karate!");
-
+    alert("🥋 Welcome to Srihari Karate! 🔥");
 });
 
 
