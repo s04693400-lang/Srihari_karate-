@@ -22,18 +22,17 @@ body {
 /* ==============================
    HEADER
    ============================== */
-
 header {
-    min-height: 100vh;
+    min-height: 65vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 40px 20px;
-    background:
-        linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.92)),
-        #080808;
+    padding: 50px 20px;
+    background: #080808;
+}
+
 }
 
 header h1 {
@@ -53,8 +52,6 @@ header p {
    ============================== */
 
 .btn {
-    display: inline-block;
-    padding: 14px 30px;
     background: #e10600;
     color: #ffffff;
     text-decoration: none;
